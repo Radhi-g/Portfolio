@@ -9,7 +9,7 @@ body {
 #body-header{
     height: 65vh;
    /* opacity: 0.8;*/
-    background-image: url( image/6.jpg);
+    background-image: url( image/background1.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -98,7 +98,7 @@ section:nth-child(2n+1){
     width: 100%;
     position: relative;
     margin-bottom: 15px;
-    background-image: url( image/5.jpg);
+    background-image: url( image/background1.jpg);
 }
 #my-image{
     height: 12rem;
@@ -119,7 +119,7 @@ section:nth-child(2n+1){
 padding: 10px;
 width: 70%;
 text-align: justify;
-color: grey;
+color: black;
 line-height: 28px;
 font-size: 1.1rem;
 margin: auto;
@@ -313,7 +313,7 @@ font-weight: 600;
 
 #contact {
     /* background-color: #6adaff; */
-    background-image: linear-gradient(50deg, #000808 0%, #fc0707 74%);
+    background-image: linear-gradient(50deg, #000808 0%, #41d0da 74%);
     color: white;
     padding-bottom: 40px;
 }
